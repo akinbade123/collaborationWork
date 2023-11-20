@@ -4,10 +4,15 @@
     box-sizing: border-box;
 }
 .header{
-    width: 1500px;
-    height: 120px;
+    width: 1300px;
+    height: 80px;
     border: 1px solid purple;
 }
 .div1{
-    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 25px;
+    margin-top: 20px;
+
 }
